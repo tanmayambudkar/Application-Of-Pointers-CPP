@@ -1,6 +1,6 @@
 # Aim: To study and implement Pointer Operations (Call by value and Call by reference)
 # Software Required:
-Viusal Studio
+Visual Studio
 # Theory:
 There are two ways to pass the data to a function in the C++ language:
 1. Call by value
